@@ -21,6 +21,12 @@ At every 5th minute
 Next execution: 2025-09-24 18:25:00
 ```
 
+## Installing
+
+```sh
+go install github.com/mathcale/what-the-cron@latest
+```
+
 ## Building
 
 Just run:
