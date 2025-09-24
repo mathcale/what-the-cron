@@ -1,4 +1,4 @@
-module what-the-cron
+module github.com/mathcale/what-the-cron
 
 go 1.24
 
