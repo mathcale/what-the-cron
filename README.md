@@ -24,7 +24,7 @@ Next execution: 2025-09-24 18:25:00
 ## Installing
 
 ```sh
-go install github.com/mathcale/what-the-cron@latest
+go install github.com/mathcale/what-the-cron@v1.0.0
 ```
 
 ## Building
